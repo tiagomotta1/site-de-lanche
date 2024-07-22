@@ -1,0 +1,83 @@
+
+body{
+    
+    background-color: #212121;
+}
+
+
+
+ h2{
+    color: rgb(240, 225, 12);
+    text-align: center;
+    margin-left: auto;
+  
+  }
+  p{
+    text-align: center;
+    text-align: left;
+    padding: 50px;
+  }
+ 
+
+h1{
+    color: rgb(240, 225, 12);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', Impact, Haettenschweiler, 'Arial Narrow Bold', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#fome{
+    text-align: center;
+    font-size: 40px;
+}
+
+ul{ 
+    
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    margin-top: 50px;  
+    
+    
+      
+}
+
+
+.lanche1{
+    color: white;
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+li{
+    text-align: center;
+  
+}
+
+.grande{
+    font-size: 90px;
+}
+
+
+.menu{
+    
+    background-color: rgb(216, 12, 12);
+    width: 100%;
+    margin-top: -50px;
+    padding-left: 8px;
+    padding: 25px;   
+    
+}
+
+.imagem-hover {
+    transition: transform 0.4s ease; /* Transição suave para a transformação */
+  }
+  
+  .imagem-hover:hover {
+    transform: scale(1.1); /* Aumenta em 50% */
+  }
+  
+a{
+    color: bisque;
+    text-decoration: none;
+    
+    
+}
